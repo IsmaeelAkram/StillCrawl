@@ -5,8 +5,7 @@ StillCrawl is a simple, but smart Python web crawler which has advanced features
 
 # Dependencies
 
- - Python 3.6
- - python.exe in PATH (https://bit.ly/2ReXyJp)
+ NONE! :)
 
 ## How to use
 
