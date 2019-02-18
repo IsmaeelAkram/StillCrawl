@@ -5,8 +5,8 @@ StillCrawl is a simple, but smart Python web crawler which has advanced features
 
 # Dependencies
 
- pychalk
- queue
+- pychalk
+- queue
 
 ## How to use
 
