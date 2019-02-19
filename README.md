@@ -1,9 +1,8 @@
-# <center><img src="https://i.imgur.com/HpEAvw1.png" width=200 height=166.65></center>
-
+# StillCrawl
 StillCrawl is a simple, but smart Python web crawler which has advanced features for safety and prevention of data loss, interference, etc.
 
 
-# Dependencies
+## Dependencies
 
 - pychalk
 - queue
