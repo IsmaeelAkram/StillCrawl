@@ -5,6 +5,8 @@ from spider import Spider
 from domain import *
 from general import *
 
+# This is protected under the GNU Public License by Ismaeel Akram.
+
 PROJECT_NAME = sys.argv[1]
 HOMEPAGE = sys.argv[2]
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
